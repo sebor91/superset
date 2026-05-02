@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "first_name": "Superset",
+    "last_name": "Admin",
+    "username": "admin",
+    "password": "scrypt:32768:8:1$UtuPBb2aSYRW4rqQ$2535f988f3d9dae279d4f801512f215e733ad1c63d7812dcf04d216c5f8ab23f994d6a848c6caa9324fa124160dda5cd98a07055fddc79d9a20460346e5b868f",
+    "active": 1,
+    "email": "admin@superset.com",
+    "last_login": "2026-05-02 17:04:50.416396",
+    "login_count": 5,
+    "fail_login_count": 0,
+    "created_on": "2026-05-02 16:24:05.945560",
+    "changed_on": "2026-05-02 16:24:05.945568",
+    "created_by_fk": null,
+    "changed_by_fk": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "created_on": "2026-05-02 16:37:15.104295",
+    "changed_on": "2026-05-02 16:37:15.104298",
+    "id": 1,
+    "dashboard_title": "\u00c9tat des stocks \u2014 Entrep\u00f4t T\u00e9l\u00e9com",
+    "position_json": null,
+    "created_by_fk": null,
+    "changed_by_fk": 1,
+    "css": null,
+    "description": null,
+    "slug": "etat-stocks",
+    "json_metadata": "{\"color_scheme_domain\": [], \"shared_label_colors\": [], \"map_label_colors\": {}, \"label_colors\": {}}",
+    "published": 1,
+    "uuid": "b'Uh\\x11q~\\x8bL\\x0e\\x9c9r\\x8e8/Rj'",
+    "certified_by": null,
+    "certification_details": null,
+    "is_managed_externally": 0,
+    "external_url": null,
+    "theme_id": null
+  }
+]

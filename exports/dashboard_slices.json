@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "dashboard_id": 1,
+    "slice_id": 1
+  },
+  {
+    "id": 2,
+    "dashboard_id": 1,
+    "slice_id": 2
+  },
+  {
+    "id": 3,
+    "dashboard_id": 1,
+    "slice_id": 3
+  },
+  {
+    "id": 4,
+    "dashboard_id": 1,
+    "slice_id": 4
+  },
+  {
+    "id": 5,
+    "dashboard_id": 1,
+    "slice_id": 5
+  },
+  {
+    "id": 6,
+    "dashboard_id": 1,
+    "slice_id": 6
+  },
+  {
+    "id": 7,
+    "dashboard_id": 1,
+    "slice_id": 7
+  },
+  {
+    "id": 8,
+    "dashboard_id": 1,
+    "slice_id": 8
+  },
+  {
+    "id": 9,
+    "dashboard_id": 1,
+    "slice_id": 9
+  }
+]

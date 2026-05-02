@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "can_read"
+  },
+  {
+    "id": 2,
+    "name": "can_write"
+  },
+  {
+    "id": 8,
+    "name": "can_upload"
+  },
+  {
+    "id": 9,
+    "name": "can_this_form_post"
+  },
+  {
+    "id": 10,
+    "name": "can_this_form_get"
+  },
+  {
+    "id": 11,
+    "name": "can_show"
+  },
+  {
+    "id": 12,
+    "name": "can_download"
+  },
+  {
+    "id": 13,
+    "name": "can_add"
+  },
+  {
+    "id": 14,
+    "name": "can_list"
+  },
+  {
+    "id": 15,
+    "name": "can_userinfo"
+  },
+  {
+    "id": 16,
+    "name": "can_delete"
+  },
+  {
+    "id": 17,
+    "name": "can_edit"
+  },
+  {
+    "id": 18,
+    "name": "resetmypassword"
+  },
+  {
+    "id": 19,
+    "name": "resetpasswords"
+  },
+  {
+    "id": 20,
+    "name": "userinfoedit"
+  },
+  {
+    "id": 21,
+    "name": "copyrole"
+  },
+  {
+    "id": 22,
+    "name": "can_info"
+  },
+  {
+    "id": 23,
+    "name": "can_get"
+  },
+  {
+    "id": 24,
+    "name": "can_update_role_groups"
+  },
+  {
+    "id": 25,
+    "name": "can_put"
+  },
+  {
+    "id": 26,
+    "name": "can_list_role_permissions"
+  },
+  {
+    "id": 27,
+    "name": "can_update_role_users"
+  },
+  {
+    "id": 28,
+    "name": "can_post"
+  },
+  {
+    "id": 29,
+    "name": "can_add_role_permissions"
+  },
+  {
+    "id": 30,
+    "name": "can_invalidate"
+  },
+  {
+    "id": 31,
+    "name": "can_export"
+  },
+  {
+    "id": 32,
+    "name": "can_warm_up_cache"
+  },
+  {
+    "id": 33,
+    "name": "can_set_embedded"
+  },
+  {
+    "id": 34,
+    "name": "can_get_embedded"
+  },
+  {
+    "id": 35,
+    "name": "can_delete_embedded"
+  },
+  {
+    "id": 36,
+    "name": "can_cache_dashboard_screenshot"
+  },
+  {
+    "id": 37,
+    "name": "can_get_drill_info"
+  },
+  {
+    "id": 38,
+    "name": "can_get_or_create_dataset"
+  },
+  {
+    "id": 39,
+    "name": "can_duplicate"
+  },
+  {
+    "id": 40,
+    "name": "can_get_column_values"
+  },
+  {
+    "id": 41,
+    "name": "can_import_"
+  },
+  {
+    "id": 42,
+    "name": "can_bulk_create"
+  },
+  {
+    "id": 43,
+    "name": "can_format_sql"
+  },
+  {
+    "id": 44,
+    "name": "can_export_csv"
+  },
+  {
+    "id": 45,
+    "name": "can_execute_sql_query"
+  },
+  {
+    "id": 46,
+    "name": "can_get_results"
+  },
+  {
+    "id": 47,
+    "name": "can_estimate_query_cost"
+  },
+  {
+    "id": 48,
+    "name": "can_recent_activity"
+  },
+  {
+    "id": 49,
+    "name": "can_query"
+  },
+  {
+    "id": 50,
+    "name": "can_time_range"
+  },
+  {
+    "id": 51,
+    "name": "can_query_form_data"
+  },
+  {
+    "id": 52,
+    "name": "can_samples"
+  },
+  {
+    "id": 53,
+    "name": "can_external_metadata_by_name"
+  },
+  {
+    "id": 54,
+    "name": "can_save"
+  },
+  {
+    "id": 55,
+    "name": "can_external_metadata"
+  },
+  {
+    "id": 56,
+    "name": "can_dashboard_permalink"
+  },
+  {
+    "id": 57,
+    "name": "can_fetch_datasource_metadata"
+  },
+  {
+    "id": 58,
+    "name": "can_language_pack"
+  },
+  {
+    "id": 59,
+    "name": "can_explore"
+  },
+  {
+    "id": 60,
+    "name": "can_explore_json"
+  },
+  {
+    "id": 61,
+    "name": "can_dashboard"
+  },
+  {
+    "id": 62,
+    "name": "can_log"
+  },
+  {
+    "id": 63,
+    "name": "can_sqllab_history"
+  },
+  {
+    "id": 64,
+    "name": "can_slice"
+  },
+  {
+    "id": 65,
+    "name": "can_expanded"
+  },
+  {
+    "id": 66,
+    "name": "can_migrate_query"
+  },
+  {
+    "id": 67,
+    "name": "can_delete_query"
+  },
+  {
+    "id": 68,
+    "name": "can_activate"
+  },
+  {
+    "id": 69,
+    "name": "can_tags"
+  },
+  {
+    "id": 70,
+    "name": "can_list_roles"
+  },
+  {
+    "id": 71,
+    "name": "can_grant_guest_token"
+  },
+  {
+    "id": 72,
+    "name": "menu_access"
+  },
+  {
+    "id": 73,
+    "name": "all_datasource_access"
+  },
+  {
+    "id": 74,
+    "name": "all_database_access"
+  },
+  {
+    "id": 75,
+    "name": "all_query_access"
+  },
+  {
+    "id": 76,
+    "name": "can_csv"
+  },
+  {
+    "id": 77,
+    "name": "can_share_dashboard"
+  },
+  {
+    "id": 78,
+    "name": "can_share_chart"
+  },
+  {
+    "id": 79,
+    "name": "can_sqllab"
+  },
+  {
+    "id": 80,
+    "name": "can_view_query"
+  },
+  {
+    "id": 81,
+    "name": "can_view_chart_as_table"
+  },
+  {
+    "id": 82,
+    "name": "can_drill"
+  },
+  {
+    "id": 83,
+    "name": "can_tag"
+  },
+  {
+    "id": 84,
+    "name": "database_access"
+  },
+  {
+    "id": 85,
+    "name": "datasource_access"
+  },
+  {
+    "id": 86,
+    "name": "schema_access"
+  }
+]

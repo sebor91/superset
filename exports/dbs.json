@@ -1,0 +1,30 @@
+[
+  {
+    "created_on": "2026-05-02 16:29:27.636671",
+    "changed_on": "2026-05-02 16:29:27.636678",
+    "id": 1,
+    "database_name": "entrepot_telecom",
+    "sqlalchemy_uri": "postgresql+psycopg2://superset_ro:<redacted>@172.17.0.1:5432/entrepot_telecom",
+    "created_by_fk": null,
+    "changed_by_fk": null,
+    "password": null,
+    "cache_timeout": null,
+    "extra": "{\n    \"metadata_params\": {},\n    \"engine_params\": {},\n    \"metadata_cache_timeout\": {},\n    \"schemas_allowed_for_file_upload\": []\n}\n",
+    "select_as_create_table_as": 0,
+    "allow_ctas": 0,
+    "expose_in_sqllab": 1,
+    "force_ctas_schema": null,
+    "allow_run_async": 0,
+    "allow_dml": 0,
+    "verbose_name": null,
+    "impersonate_user": 0,
+    "allow_file_upload": 0,
+    "encrypted_extra": null,
+    "server_cert": null,
+    "allow_cvas": 0,
+    "uuid": "b'\\xc4\\x99\\x86\\xb2\\x05kGS\\x94\\r\\xc4\\x8c\\xa9\\xc8\\x05\\xe7'",
+    "configuration_method": "sqlalchemy_form",
+    "is_managed_externally": 0,
+    "external_url": null
+  }
+]

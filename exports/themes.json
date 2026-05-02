@@ -1,0 +1,28 @@
+[
+  {
+    "uuid": "b'\\xf9i\\x98\\xc3\\x07D@Y\\x8fc\\x12\\xfc\\x05\\x02 \\x85'",
+    "created_on": "2026-05-02 16:24:04.997950",
+    "changed_on": "2026-05-02 16:24:04.997953",
+    "id": 1,
+    "theme_name": "THEME_DEFAULT",
+    "json_data": "{\"algorithm\": \"default\"}",
+    "is_system": 1,
+    "created_by_fk": null,
+    "changed_by_fk": null,
+    "is_system_default": 0,
+    "is_system_dark": 0
+  },
+  {
+    "uuid": "b'\\xb4\\x1ag\\xb6\\xfa\\x05GT\\xb5\\xb8\\x0f\\x8b\\\\\\x94\\x13\\xaa'",
+    "created_on": "2026-05-02 16:24:05.011730",
+    "changed_on": "2026-05-02 16:24:05.011734",
+    "id": 2,
+    "theme_name": "THEME_DARK",
+    "json_data": "{\"algorithm\": \"dark\"}",
+    "is_system": 1,
+    "created_by_fk": null,
+    "changed_by_fk": null,
+    "is_system_default": 0,
+    "is_system_dark": 0
+  }
+]

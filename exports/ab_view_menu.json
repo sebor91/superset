@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "SavedQuery"
+  },
+  {
+    "id": 2,
+    "name": "CssTemplate"
+  },
+  {
+    "id": 3,
+    "name": "ReportSchedule"
+  },
+  {
+    "id": 4,
+    "name": "Chart"
+  },
+  {
+    "id": 5,
+    "name": "Annotation"
+  },
+  {
+    "id": 6,
+    "name": "Dataset"
+  },
+  {
+    "id": 7,
+    "name": "Log"
+  },
+  {
+    "id": 8,
+    "name": "Dashboard"
+  },
+  {
+    "id": 9,
+    "name": "Database"
+  },
+  {
+    "id": 10,
+    "name": "Query"
+  },
+  {
+    "id": 11,
+    "name": "SupersetIndexView"
+  },
+  {
+    "id": 12,
+    "name": "UtilView"
+  },
+  {
+    "id": 13,
+    "name": "LocaleView"
+  },
+  {
+    "id": 14,
+    "name": "SupersetAuthView"
+  },
+  {
+    "id": 15,
+    "name": "SupersetRegisterUserView"
+  },
+  {
+    "id": 16,
+    "name": "SecurityApi"
+  },
+  {
+    "id": 17,
+    "name": "UserInfoEditView"
+  },
+  {
+    "id": 18,
+    "name": "ResetPasswordView"
+  },
+  {
+    "id": 19,
+    "name": "ResetMyPasswordView"
+  },
+  {
+    "id": 20,
+    "name": "AuthDBView"
+  },
+  {
+    "id": 21,
+    "name": "UserDBModelView"
+  },
+  {
+    "id": 22,
+    "name": "RoleModelView"
+  },
+  {
+    "id": 23,
+    "name": "UserGroupModelView"
+  },
+  {
+    "id": 24,
+    "name": "Permission"
+  },
+  {
+    "id": 25,
+    "name": "Role"
+  },
+  {
+    "id": 26,
+    "name": "User"
+  },
+  {
+    "id": 27,
+    "name": "ViewMenu"
+  },
+  {
+    "id": 28,
+    "name": "PermissionViewMenu"
+  },
+  {
+    "id": 29,
+    "name": "Group"
+  },
+  {
+    "id": 30,
+    "name": "OpenApi"
+  },
+  {
+    "id": 31,
+    "name": "SwaggerView"
+  },
+  {
+    "id": 32,
+    "name": "MenuApi"
+  },
+  {
+    "id": 33,
+    "name": "AsyncEventsRestApi"
+  },
+  {
+    "id": 34,
+    "name": "AdvancedDataType"
+  },
+  {
+    "id": 35,
+    "name": "AvailableDomains"
+  },
+  {
+    "id": 36,
+    "name": "CacheRestApi"
+  },
+  {
+    "id": 37,
+    "name": "Theme"
+  },
+  {
+    "id": 38,
+    "name": "CurrentUserRestApi"
+  },
+  {
+    "id": 39,
+    "name": "UserRestApi"
+  },
+  {
+    "id": 40,
+    "name": "DashboardFilterStateRestApi"
+  },
+  {
+    "id": 41,
+    "name": "DashboardPermalinkRestApi"
+  },
+  {
+    "id": 42,
+    "name": "Datasource"
+  },
+  {
+    "id": 43,
+    "name": "EmbeddedDashboard"
+  },
+  {
+    "id": 44,
+    "name": "Explore"
+  },
+  {
+    "id": 45,
+    "name": "ExploreFormDataRestApi"
+  },
+  {
+    "id": 46,
+    "name": "ExplorePermalinkRestApi"
+  },
+  {
+    "id": 47,
+    "name": "ImportExportRestApi"
+  },
+  {
+    "id": 48,
+    "name": "Row Level Security"
+  },
+  {
+    "id": 49,
+    "name": "Tag"
+  },
+  {
+    "id": 50,
+    "name": "SQLLab"
+  },
+  {
+    "id": 51,
+    "name": "SqlLabPermalinkRestApi"
+  },
+  {
+    "id": 52,
+    "name": "security"
+  },
+  {
+    "id": 53,
+    "name": "DynamicPlugin"
+  },
+  {
+    "id": 54,
+    "name": "Api"
+  },
+  {
+    "id": 55,
+    "name": "EmbeddedView"
+  },
+  {
+    "id": 56,
+    "name": "Superset"
+  },
+  {
+    "id": 57,
+    "name": "TableSchemaView"
+  },
+  {
+    "id": 58,
+    "name": "TabStateView"
+  },
+  {
+    "id": 59,
+    "name": "Tags"
+  },
+  {
+    "id": 60,
+    "name": "TagView"
+  },
+  {
+    "id": 61,
+    "name": "RoleRestAPI"
+  },
+  {
+    "id": 62,
+    "name": "user"
+  },
+  {
+    "id": 63,
+    "name": "UserRegistrationsRestAPI"
+  },
+  {
+    "id": 64,
+    "name": "SecurityRestApi"
+  },
+  {
+    "id": 65,
+    "name": "RowLevelSecurity"
+  },
+  {
+    "id": 66,
+    "name": "Security"
+  },
+  {
+    "id": 67,
+    "name": "List Roles"
+  },
+  {
+    "id": 68,
+    "name": "User Registrations"
+  },
+  {
+    "id": 69,
+    "name": "List Users"
+  },
+  {
+    "id": 70,
+    "name": "List Groups"
+  },
+  {
+    "id": 71,
+    "name": "Action Log"
+  },
+  {
+    "id": 72,
+    "name": "Home"
+  },
+  {
+    "id": 73,
+    "name": "Data"
+  },
+  {
+    "id": 74,
+    "name": "Databases"
+  },
+  {
+    "id": 75,
+    "name": "Dashboards"
+  },
+  {
+    "id": 76,
+    "name": "Charts"
+  },
+  {
+    "id": 77,
+    "name": "Datasets"
+  },
+  {
+    "id": 78,
+    "name": "Manage"
+  },
+  {
+    "id": 79,
+    "name": "Plugins"
+  },
+  {
+    "id": 80,
+    "name": "CSS Templates"
+  },
+  {
+    "id": 81,
+    "name": "Themes"
+  },
+  {
+    "id": 82,
+    "name": "Alerts & Report"
+  },
+  {
+    "id": 83,
+    "name": "Annotation Layers"
+  },
+  {
+    "id": 84,
+    "name": "SQL Lab"
+  },
+  {
+    "id": 85,
+    "name": "SQL Editor"
+  },
+  {
+    "id": 86,
+    "name": "Saved Queries"
+  },
+  {
+    "id": 87,
+    "name": "Query Search"
+  },
+  {
+    "id": 88,
+    "name": "all_datasource_access"
+  },
+  {
+    "id": 89,
+    "name": "all_database_access"
+  },
+  {
+    "id": 90,
+    "name": "all_query_access"
+  },
+  {
+    "id": 91,
+    "name": "[entrepot_telecom].(id:1)"
+  },
+  {
+    "id": 92,
+    "name": "[entrepot_telecom].[v_synthese_stock](id:1)"
+  },
+  {
+    "id": 93,
+    "name": "[entrepot_telecom].[public]"
+  },
+  {
+    "id": 94,
+    "name": "[entrepot_telecom].[ruptures](id:2)"
+  },
+  {
+    "id": 95,
+    "name": "[entrepot_telecom].[reparations](id:3)"
+  },
+  {
+    "id": 96,
+    "name": "[entrepot_telecom].[attendus_fournisseurs](id:4)"
+  },
+  {
+    "id": 97,
+    "name": "[entrepot_telecom].[stock](id:5)"
+  },
+  {
+    "id": 98,
+    "name": "[entrepot_telecom].[base_articles](id:6)"
+  }
+]
