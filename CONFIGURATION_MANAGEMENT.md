@@ -4,7 +4,7 @@ Guide pour versionner les configurations Superset dans Git tout en sécurisant l
 
 ## 📋 Structure
 
-```
+```text
 superset/
 ├── exports/                    ✅ VERSIONNÉ (Git)
 │   ├── dashboards.json         # Dashboard configurations
@@ -28,10 +28,12 @@ superset/
 ## 🔐 Sécurité
 
 ### Secrets IGNORÉS par Git
+
 - `superset/docker/.env` - Contient DATABASE_PASSWORD, ADMIN_PASSWORD
 - Fichiers temporaires `.db`, scripts de déploiement
 
 ### Configuration VERSIONNÉE
+
 - `superset/exports/*.json` - Configuration des dashboards, charts, datasets
 - `superset/docker-compose-image-tag.yml` - Version, image, services
 - Documentation et README
@@ -94,9 +96,9 @@ Le fichier `docker/.env` DOIT exister mais NE doit PAS être committé:
 
 ```env
 # Ne JAMAIS committer ce fichier !
-ADMIN_PASSWORD=<mot_de_passe_admin_local>      # Secret!
-DATABASE_PASSWORD=<mot_de_passe_db_local>      # Secret!
-POSTGRES_PASSWORD=<mot_de_passe_postgres_local> # Secret!
+ADMIN_PASSWORD=SEB91_superset           # Secret!
+DATABASE_PASSWORD=DbSuperset_2026!      # Secret!
+POSTGRES_PASSWORD=DbSuperset_2026!      # Secret!
 
 # OK de committer ces variables:
 TAG=4.1.2

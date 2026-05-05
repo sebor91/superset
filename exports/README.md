@@ -12,7 +12,7 @@ Cette dossier contient les exports JSON de la configuration Superset (dashboards
 
 ## 🔄 Utilisation
 
-### Exporter la configuration actualisée:
+### Exporter la configuration actualisée
 
 ```bash
 cd /pathto/superset
@@ -34,7 +34,7 @@ os.remove("./exports/superset-temp.db")
 SCRIPT
 ```
 
-### Recréer la configuration depuis les exports:
+### Recréer la configuration depuis les exports
 
 Cette partie requiert un script de restauration qui n'est pas encore implémenté.
 Pour l'instant, l'export sert de **backup et de documentation**.
